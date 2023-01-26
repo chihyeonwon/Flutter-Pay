@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   bootpay: ^4.4.5
   bootpay_bio: ^4.4.2
+  get: ^4.6.5
 
 dev_dependencies:
   flutter_test:
