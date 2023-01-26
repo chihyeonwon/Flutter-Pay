@@ -1,16 +1,12 @@
 # bootpay
 
-A new Flutter project.
+[Flutter Bootpay 개발 문서](https://docs.bootpay.co.kr/?front=flutter&backend=curl#step-production) 사이트를 참조하였습니다.
+```
+Bootpay API를 사용하여 인앱 결제를 구현해보았습니다.
 
-## Getting Started
+먼저 Frontend 클라이언트 단 결제 연동을 개발한 후에 
+Backend 서버 단의 결제 결과 수신 및 취소 연동을 개발하고
+테스트 개발 연동까지를 목표로 하고 개발을 하였습니다.
+```
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
