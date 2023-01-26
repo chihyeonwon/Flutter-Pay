@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- 아래를 추가해야 popup dialog 시 특정 기종에서 에러가 발생하지 않는다 -->
-    <style name="LaunchTheme" parent="Theme.AppCompat.Light.NoActionBar">
     <!-- Theme applied to the Android Window while the process is starting when the OS's Dark Mode setting is off -->
     <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
         <!-- Show a splash screen on the activity. Automatically removed when
