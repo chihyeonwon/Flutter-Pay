@@ -38,3 +38,12 @@ PG 일반 결제 버튼을 누르면 payload로 선택 상품의 이름과 가�
 ![image](https://user-images.githubusercontent.com/58906858/214784355-6094d04e-350b-438b-b2d1-dd3f6298128c.png)
 
 ![image](https://user-images.githubusercontent.com/58906858/214784188-6daad539-2924-4955-b117-de8733305064.png)
+
+## PG일반 카드 결제 테스트 ( 결제 요청2 )
+```
+약관을 모두 동의한 후에는 결제 방식의 최종 확인과 구매자의 이메일을 입력할 수 있는 창이 나옵니다.
+결제자의 정보를 user에 담은 뒤에 payload 키의 값으로 전달해주었습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/214785259-7480bb6d-097c-4d97-9e64-ffc51965279c.png)
+
+![image](https://user-images.githubusercontent.com/58906858/214785316-29a176a3-608a-4ae6-be9e-862f1dc4176a.png)
