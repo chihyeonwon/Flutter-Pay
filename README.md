@@ -54,3 +54,7 @@ PG 일반 결제 버튼을 누르면 payload로 선택 상품의 이름과 가�
 결제를 시도할 수 있게 할 수 있습니다. 역시 extra에 결제 방식을 담아서 payload 값으로 전달해주었습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/214785778-b94bcede-6e54-4cec-9bc1-efae8b7c1534.png)
+
+![image](https://user-images.githubusercontent.com/58906858/214786055-34afb4ae-3c14-4fd3-aebd-5e60ba7ac33b.png)
+![image](https://user-images.githubusercontent.com/58906858/214786080-0a233cdb-db89-4ba0-badd-a392181d8848.png)
+
