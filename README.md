@@ -83,3 +83,9 @@ payletter 본인 인증을 거친 후에 정기적으로 자동으로 카드에�
 메인 화면에 카드 자동 결제(인증) 창으로 이동하는 버튼을 추가하였습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/215048071-d4df86b6-7cb0-491a-adb5-816a08eb1d0b.png)
+
+## 카드 자동 결제 (인증) 테스트 코드
+```
+카드 번호, 유효 기간, 생년 월일, 비밀 번 등 본인 확인을 거친 후에 자동으로 카드에서 결제되는 서비스입니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/215049177-d1154cf5-341b-48f6-be1c-f70e4faf5619.png)
