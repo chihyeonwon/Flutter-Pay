@@ -51,6 +51,10 @@ class _MyHomePageState extends State<MyHomePage> {
                   onPressed: () => Get.to(DefaultPayment()),
                   child: const Text('1. PG일반 결제 테스트', style: TextStyle(fontSize: 16.0))
               ),
+              TextButton(
+                  onPressed: () => Get.to(TotalPayment()),
+                  child: const Text('2. 통합결제 테스트', style: TextStyle(fontSize: 16.0))
+              ),
             ],
           ),
         ),
