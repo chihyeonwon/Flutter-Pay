@@ -96,3 +96,11 @@ payletter 본인 인증을 거친 후에 정기적으로 자동으로 카드에�
 자동으로 카드에서 결제되는 서비스입니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/215050563-0bb4fb8c-543d-4bf1-bcd5-c196e1e3612d.png)
+
+## 본인 인증 결제 테스트 코드
+```
+payload 키의 method 방법으로 본인인증을 주어서 PASS에서 휴대폰으로 본인 인증을 시도합니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/215051325-96fa7679-267f-4891-a5b8-99bc76e1c8af.png)
+![image](https://user-images.githubusercontent.com/58906858/215051762-dbc56600-1938-417e-8a98-c6cdec7b771d.png)
+
