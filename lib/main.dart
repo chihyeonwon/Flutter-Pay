@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+import 'total_payment.dart';
 import 'default_payment.dart';
 
 
