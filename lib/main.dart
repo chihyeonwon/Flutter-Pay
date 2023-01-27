@@ -5,6 +5,7 @@ import 'total_payment.dart';
 import 'default_payment.dart';
 import 'subscription_payment.dart';
 import 'subscription_bootpay_payment.dart';
+import 'authentication_payment.dart';
 
 void main() {
   runApp(const MyApp());
@@ -64,6 +65,10 @@ class _MyHomePageState extends State<MyHomePage> {
               TextButton(
                   onPressed: () => Get.to(SubscriptionBootpayPayment()),
                   child: const Text('4. 카드자동 결제 테스트 (비인증)', style: TextStyle(fontSize: 16.0))
+              ),
+              TextButton(
+                  onPressed: () => Get.to(AuthenticationPayment()),
+                  child: const Text('5. 본인인증 테스트', style: TextStyle(fontSize: 16.0))
               ),
             ],
           ),
