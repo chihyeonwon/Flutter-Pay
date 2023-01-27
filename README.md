@@ -75,3 +75,11 @@ PG 일반 결제 버튼을 누르면 payload로 선택 상품의 이름과 가�
 간편 결제(카카오페이, 네이버페이, 페이코)를 제공하는 것을 알 수 있었습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/215046275-8b6cfd87-0f73-4c08-816e-00f094f11258.png)
+
+## 카드 자동 결제 (인증)
+```
+payletter 본인 인증을 거친 후에 정기적으로 자동으로 카드에서 돈이 빠져나가는 기능을 지원합니다.
+
+메인 화면에 카드 자동 결제(인증) 창으로 이동하는 버튼을 추가하였습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/215048071-d4df86b6-7cb0-491a-adb5-816a08eb1d0b.png)
