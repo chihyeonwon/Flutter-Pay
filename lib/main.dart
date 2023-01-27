@@ -3,6 +3,7 @@ import 'package:get/get.dart';
 
 import 'total_payment.dart';
 import 'default_payment.dart';
+import 'subscription_payment.dart';
 
 
 void main() {
@@ -55,6 +56,10 @@ class _MyHomePageState extends State<MyHomePage> {
               TextButton(
                   onPressed: () => Get.to(TotalPayment()),
                   child: const Text('2. 통합결제 테스트', style: TextStyle(fontSize: 16.0))
+              ),
+              TextButton(
+                  onPressed: () => Get.to(SubscriptionPayment()),
+                  child: const Text('3. 카드자동 결제 테스트(인증)', style: TextStyle(fontSize: 16.0))
               ),
             ],
           ),
