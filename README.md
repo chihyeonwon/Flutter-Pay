@@ -89,3 +89,10 @@ payletter 본인 인증을 거친 후에 정기적으로 자동으로 카드에�
 카드 번호, 유효 기간, 생년 월일, 비밀 번 등 본인 확인을 거친 후에 자동으로 카드에서 결제되는 서비스입니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/215049177-d1154cf5-341b-48f6-be1c-f70e4faf5619.png)
+
+## 카드 자동 결제 (비인증) 테스트 코드
+```
+카드자동 결제 (인증) 과 다르게 비인증은 소유하고 있는 카드를 등록한 후에 
+자동으로 카드에서 결제되는 서비스입니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/215050563-0bb4fb8c-543d-4bf1-bcd5-c196e1e3612d.png)
